@@ -88,7 +88,7 @@ menu:
 # how not to duplicate things in e.g. the services menu
 languages:
   en:
-    title: United Kingdom
+    title: Great Britain and Northern Ireland
     weight: 1
     languageName: English
   cy:
