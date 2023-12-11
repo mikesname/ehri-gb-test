@@ -45,7 +45,7 @@ taxonomies:
 menu:
   main:
     - identifer: news
-      pageRef: /news
+      pageRef: news
       weight: 10
     - identifier: about
       pageRef: about
