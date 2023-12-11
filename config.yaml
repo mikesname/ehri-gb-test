@@ -44,6 +44,9 @@ taxonomies:
 # Menu configuration. Labels are in the i18n folders:
 menu:
   main:
+    - identifer: news
+      pageRef: /news
+      weight: 10
     - identifier: about
       pageRef: about
       weight: 20
