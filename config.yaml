@@ -1,19 +1,19 @@
-baseURL: 'http://example.org/'
-languageCode: en-gb
-title: United Kingdom
+baseURL: 'https://www.ehri.at'
+languageCode: de-AT
+title: Austria
 theme: ehri-nn
 copyright: '© 2010-{year} EHRI Consortium.'
 defaultContentLanguage: en
 dateFormat: '2 January 2006'
 summaryLength: 40
 params:
-  titleShort: EHRI-UK
+  titleShort: EHRI-AT
   facebookUrl: 'https://facebook.com/EHRIproject'
   twitterUrl: 'https://twitter.com/EHRIproject'
 
   # `contactName` and `contactEmail` are used to populate the contact page.
-  contactName: EHRI UK
-  contactEmail: feedback@ehri-uk.org
+  contactName: EHRI-AT
+  contactEmail: office@vwi.ac.at
 
   # `contactForm` is a boolean that determines whether the contact form should be shown.
   contactForm: true
@@ -44,6 +44,9 @@ taxonomies:
 # Menu configuration. Labels are in the i18n folders:
 menu:
   main:
+    - identifier: news
+      pageRef: news
+      weight: 10
     - identifier: about
       pageRef: about
       weight: 20
@@ -88,39 +91,37 @@ menu:
 # how not to duplicate things in e.g. the services menu
 languages:
   en:
-    title: United Kingdom
+    title: Austria
     weight: 1
-    languageName: English
-  cy:
-    title: Deyrnas Unedig
+  de:
+    title: Österreich
     weight: 2
-    languageName: Cymraeg
     menu:
       main:
         - identifier: about
-          pageRef: cy/about/
+          pageRef: de/about/
           weight: 20
         - identifier: partners
-          pageRef: cy/partners
+          pageRef: de/partners
           weight: 30
         - identifier: fellowships_training
-          pageRef: cy/training
+          pageRef: de/training
           weight: 40
         - identifier: services
-          pageRef: cy/services
+          pageRef: de/services
           weight: 50
         - identifier: contact
-          pageRef: cy/contact
+          pageRef: de/contact
           weight: 60
       footer:
         - identifier: about
-          pageRef: cy/about/
+          pageRef: de/about/
           weight: 20
         - identifier: partners
-          pageRef: cy/partners
+          pageRef: de/partners
           weight: 30
         - identifier: fellowships_training
-          pageRef: cy/training
+          pageRef: de/training
           weight: 40
       services:
         - identifier: document_blog
