@@ -39,3 +39,11 @@
   image: digital_ed.PNG
   content: |
     Die EHRI-Online-Editionen bestehen aus digitalisierten annotierten Archivdokumente zu einem Thema aus verschiedenen Quellen. 
+
+- id: courses
+  title: Die EHRI Online-Kursen
+  url: https://training.ehri-project.eu/
+  icon: lab_profile
+  image: digital_ed.PNG
+  content: |
+    Die EHRI-Online-Editionen bestehen aus digitalisierten annotierten Archivdokumente zu einem Thema aus verschiedenen Quellen. 
