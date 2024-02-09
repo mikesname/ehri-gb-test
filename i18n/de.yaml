@@ -13,8 +13,8 @@ services:
 partners_funders:
   other: Förderinstitutionen
 
-fellowships_training:
-  other: Fellowships & Training
+projects:
+  other: Projekte in AT
 
 document_blog:
   other: Document Blog

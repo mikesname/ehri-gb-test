@@ -1,0 +1,41 @@
+---
+
+- id: zwangsarbeit
+  name: Ungarische Zwangsarbeit in Wien 
+  url: https://ungarische-zwangsarbeit-in-wien.at/
+  icon: meeting_room
+  image: ungarische_logo.png
+  about: |
+     The online platform and database shed light on the fate of about 16,000 Hungarian Jews that were deported to Vienna as slave labourers.
+
+- id: ns-quellen
+  name: NS-Quellen.at
+  url: http://ns-quellen.at/index.php
+  icon: article
+  image: ns-quellen_logo.png
+  about: |
+    The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945.
+
+- id: aha
+  name: Austrian Heritage Archive 
+  url: https://austrianheritagearchive.at/de
+  icon: lab_profile
+  image: doklady-1.png
+  about: |
+    The Austrian Heritage Archive collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards.
+
+- id: memento
+  name: Memento Wien
+  url: https://www.memento.wien/
+  icon: lab_profile
+  image: doklady-1.png
+  about: |
+    Memento Wien, ein für mobile Endgeräte optimiertes Online-Tool, bietet Informationen zu den Opfern der NS-Diktatur in weiten Teilen Wiens
+
+- id: derla
+  name: Die digitale Erinnerungslandschaft Österreichs (DERLA) 
+  url: https://gams.uni-graz.at/context:derla
+  icon: lab_profile
+  image: doklady-1.png
+  about: |
+    Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus. 

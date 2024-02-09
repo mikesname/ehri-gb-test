@@ -53,8 +53,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: projects
+      pageRef: projects
       weight: 40
     - identifier: services
       pageRef: services
@@ -69,8 +69,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: projects
+      pageRef: projects
       weight: 40
   services:
     - identifier: portal
@@ -98,14 +98,17 @@ languages:
     weight: 2
     menu:
       main:
+        - identifier: news
+          pageRef: de/about/
+          weight: 10
         - identifier: about
           pageRef: de/about/
           weight: 20
         - identifier: partners
           pageRef: de/partners
           weight: 30
-        - identifier: fellowships_training
-          pageRef: de/training
+        - identifier: projects
+          pageRef: de/projects
           weight: 40
         - identifier: services
           pageRef: de/services
@@ -120,8 +123,8 @@ languages:
         - identifier: partners
           pageRef: de/partners
           weight: 30
-        - identifier: fellowships_training
-          pageRef: de/training
+        - identifier: projects
+          pageRef: de/projects
           weight: 40
       services:
         - identifier: document_blog
