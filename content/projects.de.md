@@ -1,5 +1,5 @@
 ---
-title: Projekte
+title: Projekte von Partnerinstitutionen in Österreich
 type: projects
 ---
 

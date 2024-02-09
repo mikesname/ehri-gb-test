@@ -1,41 +1,41 @@
 ---
-
-- id: zwangsarbeit
-  title: Ungarische Zwangsarbeit in Wien 
-  url: https://ungarische-zwangsarbeit-in-wien.at/
-  icon: meeting_room
-  image: cards-still-1.png
+   
+- id: aha
+  title: Austrian Heritage Archive 
+  url: https://austrianheritagearchive.at/de
+  icon: article
+  image: aha_logo.png
   content: |
-    The online platform and database shed light on the fate of about 16,000 Hungarian Jews that were deported to Vienna as slave labourers.
+    Das Austrian Heritage Archive (AHA) versammelt Audio- und Video-Interviews mit österreichisch-jüdischen Emigrantinnen und Emigranten, die in der Zeit des Nationalsozialismus und unmittelbar danach in die USA oder nach Palästina/Israel flüchteten.
 
 - id: ns-quellen
   title: NS-Quellen.at
   url: http://ns-quellen.at/index.php
   icon: article
-  image: names-2.png
+  image: ns-quellen_logo.gif
   content: |
-    The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945.
-
-- id: aha
-  title: Austrian Heritage Archive 
-  url: https://austrianheritagearchive.at/de
-  icon: lab_profile
-  image: doklady-1.png
+    Diese Plattform widmet sich dem Thema Vermögensentzug zwischen 1938 und 1945 sowie den Themen Rückstellung und Entschädigung nach 1945.
+ 
+- id: zwangsarbeit
+  title: Ungarische Zwangsarbeit in Wien 
+  url: https://ungarische-zwangsarbeit-in-wien.at/
+  icon: article
+  image: ungarische_logo.PNG
   content: |
-    The Austrian Heritage Archive collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards.
+    The online platform and database shed light on the fate of about 16,000 Hungarian Jews that were deported to Vienna as slave labourers.
 
 - id: memento
   title: Memento Wien
   url: https://www.memento.wien/
-  icon: lab_profile
-  image: doklady-1.png
+  icon: article
+  image: 
   content: |
     Memento Wien, ein für mobile Endgeräte optimiertes Online-Tool, bietet Informationen zu den Opfern der NS-Diktatur in weiten Teilen Wiens
 
 - id: derla
   title: Die digitale Erinnerungslandschaft Österreichs (DERLA) 
   url: https://gams.uni-graz.at/context:derla
-  icon: lab_profile
+  icon: article
   image: doklady-1.png
   content: |
     Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus. 
