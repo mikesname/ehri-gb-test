@@ -1,8 +1,8 @@
 ---
-title: Services
+title: Dienstleistungen
 type: services
 ---
 
 {{< intro >}}
-Below are some of the innovative services created by EHRI for use by all:
+Unten finden Sie eine Übersicht über die innovativen Dienstleistungen, die EHRI für Nutzer:innen zur Verfügung stellt:
 {{< /intro >}}

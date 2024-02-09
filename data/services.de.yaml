@@ -4,7 +4,7 @@
   title: Das EHRI-Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
-  image: cards-still-1.png
+  image: sw_quote.png
   content: |
     Das EHRI-Portal bietet Zugang zu Informationen über Holocaust-bezogenen Archivbestand in Europa und außerhalb. 
 
@@ -12,7 +12,7 @@
   title: Das EHRI-Dokumentenblog
   url: https://blog.ehri-project.eu/
   icon: article
-  image: names-2.png
+  image: dok_blog.PNG
   content: |
     Das EHRI-Dokumentenblog ist eine Platform um Ideen über Holocaust-bezogenen Archivdokumente, ihre Darstellung und ihre Interpretation mittels digitaler Tools zu vermitteln. 
 
@@ -20,7 +20,7 @@
   title: Das EHRI-Podcast
   url: https://diplomatic-reports.ehri-project.eu/
   icon: lab_profile
-  image: doklady-1.png
+  image: podcast_su.PNG
   content: |
     In jeder Folge der Podcast-Serie "For the Living and the Dead" spricht ein Holocaust-Forschende über ein Objekt, das eine persönliche Geschichte über den Holocaust erzählt.
 
@@ -28,7 +28,7 @@
   title: Das EHRI Geospacial Repository
   url: https://geodata.ehri-project.eu/geonetwork/srv/ger/catalog.search#/home
   icon: lab_profile
-  image: doklady-1.png
+  image: geospacial.PNG
   content: |
     Das EHRI Geospatial Repository enthält Datensätze, die es ermöglichen, Karten zu erstellen und räumliche Ansätze in der Holocaust-Forschung zu nutzen.
 
@@ -36,6 +36,6 @@
   title: Die EHRI Online-Editionen
   url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
-  image: doklady-1.png
+  image: digital_ed.PNG
   content: |
     Die EHRI-Online-Editionen bestehen aus digitalisierten annotierten Archivdokumente zu einem Thema aus verschiedenen Quellen. 
