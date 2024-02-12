@@ -69,7 +69,7 @@ contact_coordinators:
   other: Koordinator:innen für {{ .Title }}
 
 contact_social:
-  other: "{{ .Title }} on social media"
+  other: "EHRI on social media"
 
 contact_thanks:
   other: Danke für Ihre Nachricht
