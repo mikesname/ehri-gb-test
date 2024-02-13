@@ -99,7 +99,7 @@ languages:
     menu:
       main:
         - identifier: news
-          pageRef: de/about/
+          pageRef: de/news/
           weight: 10
         - identifier: about
           pageRef: de/about/
