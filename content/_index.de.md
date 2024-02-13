@@ -1,5 +1,5 @@
 ---
-title: European Holocaust Research Infrastructure - Das österreischische Konsortium
+title: European Holocaust Research Infrastructure - Das österreichische Konsortium
 description: Willkommen bei der österreichischen Holocaust-Forschungsinfrastruktur
 ---
 
