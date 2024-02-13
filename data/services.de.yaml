@@ -4,7 +4,7 @@
   title: Das EHRI-Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
-  image: sw_quote.png
+  image: portal_de.PNG
   content: |
     Das EHRI-Portal bietet Zugang zu Informationen über Holocaust-bezogenen Archivbestand in Europa und außerhalb. 
 
@@ -39,11 +39,3 @@
   image: digital_ed.PNG
   content: |
     Die EHRI-Online-Editionen bestehen aus digitalisierten annotierten Archivdokumente zu einem Thema aus verschiedenen Quellen. 
-
-- id: courses
-  title: Die EHRI Online-Kursen
-  url: https://training.ehri-project.eu/
-  icon: lab_profile
-  image: courses.PNG
-  content: |
-     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.

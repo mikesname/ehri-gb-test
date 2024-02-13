@@ -1,5 +1,5 @@
 ---
-title: Dienstleistungen
+title: EHRI-Dienstleistungen
 type: services
 ---
 
