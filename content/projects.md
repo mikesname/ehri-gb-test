@@ -1,8 +1,8 @@
 ---
-title: Projects
-type: projects
+title: Projects and Services in Austria
+type: Projects in AT
 ---
 
 {{< intro >}}
-Unten finden Sie eine Übersicht über die digitale Projekte, die EHRI-AT Partnerinstitutionen zur Verfügung stellen:
+lorem ipsum
 {{< /intro >}}
