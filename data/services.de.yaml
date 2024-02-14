@@ -6,7 +6,7 @@
   icon: meeting_room
   image: portal_de.PNG
   content: |
-    Das EHRI-Portal bietet Zugang zu Informationen über Holocaust-bezogenen Archivbestand in Europa und außerhalb. 
+    Das EHRI-Portal ist die Suchmaschine für Informationen über Holocaust-bezogene Archivbestände in Europa und darüber hinaus.
 
 - id: blog
   title: Das EHRI-Dokumentenblog
@@ -14,7 +14,7 @@
   icon: article
   image: dok_blog.PNG
   content: |
-    Das EHRI-Dokumentenblog ist eine Platform um Ideen über Holocaust-bezogenen Archivdokumente, ihre Darstellung und ihre Interpretation mittels digitaler Tools zu vermitteln. 
+    Der EHRI-Dokumentenblog ist ein Ort des Austauschs von Ideen über Holocaust-bezogenen Archivdokumente, ihre Darstellung und ihre Interpretation mittels digitaler Tools. 
 
 - id: podcast
   title: Das EHRI-Podcast
@@ -22,7 +22,7 @@
   icon: lab_profile
   image: podcast_su.PNG
   content: |
-    In jeder Folge der Podcast-Serie "For the Living and the Dead" spricht ein Holocaust-Forschende über ein Objekt, das eine persönliche Geschichte über den Holocaust erzählt.
+    In jeder Folge der Podcast-Serie "For the Living and the Dead" spricht ein Holocaust-Forscher/eine Holocaustforscherin über ein Objekt und bietet somit Einblicke in persönliche Geschichten des Überlebens, der Verfolgung und des Weiterlebens.
 
 - id: geospacial
   title: Das EHRI Geospacial Repository
@@ -38,4 +38,4 @@
   icon: lab_profile
   image: digital_ed.PNG
   content: |
-    Die EHRI-Online-Editionen bestehen aus digitalisierten annotierten Archivdokumente zu einem Thema aus verschiedenen Quellen. 
+    Die EHRI-Online-Editionen bieten Zugang zu digitalisierten annotierten Archivdokumenten und verbinden damit Archivbestände über einen thematischen Zugang. 

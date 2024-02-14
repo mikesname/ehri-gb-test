@@ -1,28 +1,17 @@
 ---
 
-- id: pistol
-  name: Dr. Rachel Pistol
-  email: feedback@ehri-uk.org
-  image: pistol.webp
-  about: >
-    Rachel Pistol is a digital historian based at
-    [King's College London](https://www.kcl.ac.uk/people/dr-rachel-pistol)
-    and is an Associate Advisor to The Wiener Holocaust Library, London.
-    She specialises in immigration and refugee history, Second World War
-    internment in the UK, and refugee trajectories. She is a member of the
-    EHRI Project Management Board where she coordinates dissemination,
-    innovation and virtual access activities.
+- id: kovacs
+  name: Prof. Éva Kovács
+  email: info@ehri.at 
+  image: 
+  about: |
+   Prof. Dr., sociologist. Kovács studied sociology and economics at the Corvinus University in Budapest, PhD 1994, Habilitation 2009. Éva Kovács is also a Research Professor at the Centre for Social Sciences/Hungarian Academy of Sciences Centre of Excellence in Budapest. Her research fields are the history of the Holocaust in Eastern Europe, research on memory and remembrance, and Jewish identity in Hungary and Slovakia. She has authored five monographs, edited ten volumes, published numerous articles in peer-reviewed journals, co-curated exhibitions in Budapest, Berlin, Bratislava, Krems, Prague, Vienna and Warsaw. She is the founder of the audio-visual archive “Voices of the Twentieth Century” in Budapest. She was a member of the VWI International Academic Advisory Board from 2010 to 2012 and Academic Programme Director at the VWI between 2012 and 2020.
   contact: true
 
-- id: schmidt
-  name: Dr. Christine Schmidt
-  email: feedback@ehri-uk.org
-  image: schmidt.webp
+- id: windsperger
+  name: Marianne Windsperger
+  email: info@ehri.at 
+  image: 
   about: |
-    Christine Schmidt is a historian of the Holocaust, with a passion for and
-    commitment to public history, archives, and cultural heritage. She is Deputy
-    Director and Head of Research at
-    [The Wiener Holocaust Library](https://wienerholocaustlibrary.org),
-    London, where she oversees their academic programming and research initiatives,
-    curates exhibitions, and develops research partnerships.
+   Mag.a phil., literary scholar with a focus on literary representations of the Holocaust, autobiographical sources, Yiddish literature, and theories of memory. Marianne Windsperger received her MA in Comparative Literature and Romance Studies from the University of Vienna and is a graduate of the Uriel Weinreich Program for Eastern European Jewish History and Culture at the YIVO Institute in New York. She has been working as a research assistant at the VWI since 2018. Here, she coordinates the establishment of the Austrian consortium within the framework of EHRI-AT. In addition, she is an editorial team member of the open-access journal S:I.M.O.N. and a collaborator for the fellowship program as well as for scientific publications. She also develops and organizes scientific events. Previously, she has been university assistant and project assistant at the Institute for German Studies at the University of Vienna (2014-2017) and research assistant at the Theodor Kramer Society (2017-2018). Since 2018, she serves as a board member there.
   contact: true

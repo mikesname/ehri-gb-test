@@ -1,8 +1,8 @@
 ---
-title: Latest News
-description: Latest EHRI-UK news articles
+title: News
+description: Neueste Nachrichten von EHRI-AT
 ---
 
 {{< intro >}}
-Latest news and updates from EHRI-UK.
+Neueste Nachrichten und Updates von EHRI-AT.
 {{< /intro >}}

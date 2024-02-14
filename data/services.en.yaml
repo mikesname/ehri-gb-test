@@ -4,46 +4,38 @@
   title: The EHRI Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
-  image: cards-still-1.png
+  image: portal_de.PNG
   content: |
-    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+    lorem ipsum
 
 - id: blog
   title: Document Blog
   url: https://blog.ehri-project.eu/
   icon: article
-  image: names-2.png
+  image: dok_blog.PNG
   content: |
-    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+    lorem ipsum
 
-- id: editions_dr
-  title: Diplomatic Reports
+- id: podcast
+  title: EHRI Podcast
   url: https://diplomatic-reports.ehri-project.eu/
   icon: lab_profile
-  image: doklady-1.png
+  image: podcast_su.PNG
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    lorem ipsum
 
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: geospacial
+  title:  EHRI Geospacial Repository
+  url: https://geodata.ehri-project.eu/geonetwork/srv/ger/catalog.search#/home
   icon: lab_profile
-  image: doklady-1.png
+  image: geospacial.PNG
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    Lorem ipsum
 
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: editions
+  title: EHRI Online Editions
+  url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
-  image: doklady-1.png
+  image: digital_ed.PNG
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
-
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
-  icon: lab_profile
-  image: doklady-1.png
-  content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    Lorem ipsum
