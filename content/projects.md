@@ -1,6 +1,6 @@
 ---
 title: Projects in Austria
-type: Projects in AT
+type: projects
 ---
 
 {{< intro >}}
