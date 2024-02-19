@@ -5,40 +5,40 @@
   url: https://austrianheritagearchive.at/en
   icon: article
   image: aha_logo_trans.png
-  about: |
-    The Austrian Heritage Archive collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards
+  content: |
+    The Austrian Heritage Archive (AHA) collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards
 
 - id: ns-quellen
   title: NS-Quellen.at
   url: http://ns-quellen.at/index.php
   icon: article
   image: ns-quellen_logo.gif
-  about: |
-    The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945
+  content: |
+    The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945.
 
 - id: memento
   title: Memento Wien
   url: https://www.memento.wien/en
   icon: article
   image: memento.jpg
-  about: |
-    Memento Vienna is an online tool, optimised for devices such as tablets and smartphones, that offers information about the victims of the Nazi regime in Vienna
+  content: |
+    Memento Vienna is an online tool, optimised for devices such as tablets and smartphones, that offers information about the victims of the Nazi regime in Vienna.
 
 - id: zwangsarbeit
   name: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
   icon: article
-  image: ungarische_logo.PNG
-  about: |
-    The online platform and database sheds light on the fate of approximately 16,000 Hungarian Jews deported to Vienna as slave labourers
+  image: hu_zwa_3.PNG
+  content: |
+    The online platform and database sheds light on the fate of approximately 16,000 Hungarian Jews deported to Vienna as slave labourers.
 
 - id: derla
   title: Die digitale Erinnerungslandschaft Österreichs (DERLA)
   url: https://gams.uni-graz.at/context:derla
   icon: article
   image: 
-  about: |
-    Digitale Erinnerungslandschaft Österreichs (DERLA) is a documentation and education project 
+  content: |
+    Digitale Erinnerungslandschaft Österreichs (DERLA) is a documentation and education project that mainly documents Austrian memorial sites and signs for the victims of National Socialism.
 
 - id: findbuch
   title:  Findbuch for Victims Of National Socialism
@@ -46,7 +46,7 @@
   icon: article
   image: 
   content: |
-    This online finding aid aims to assist the victims of National Socialism and their descendants, as well as historians, members of local remembrance initiatives and the interested public, in accessing and searching the holdings of Austrian archives
+    This online finding aid aims to assist the victims of National Socialism and their descendants, as well as historians, members of local remembrance initiatives and the interested public, in accessing and searching the holdings of Austrian archives.
   
 - id: memorbuch
   title:  Memorbuch Juden in St. Pölten
@@ -54,4 +54,4 @@
   icon: article
   image: 
   content: |
-    With this virtual Memorbuch the Institute for Jewish History in Austria honours the Jewish community of St. Pölten which was annihilated during the time of National Socialism
+    With this virtual Memorbuch the Institute for Jewish History in Austria honours the Jewish community of St. Pölten which was annihilated during the time of National Socialism.

@@ -1,34 +1,34 @@
 ---
 
 - id: portal
-  title: The EHRI Portal
+  title: EHRI Portal
   url: https://portal.ehri-project.eu/
-  icon: article
+  icon: lab_profile
   image: portal_de.PNG
   content: |
-    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+    The EHRI Portal is the search engine for information on Holocaust-related archival holdings in Europe and beyond.
 
 - id: blog
-  title: Document Blog
+  title: EHRI Document Blog
   url: https://blog.ehri-project.eu/
-  icon: article
+  icon: lab_profile
   image: dok_blog.PNG
   content: |
-    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+    The EHRI Document Blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
 
 - id: podcast
   title: EHRI Podcast
-  url: https://diplomatic-reports.ehri-project.eu/
+  url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead
   icon: lab_profile
   image: podcast_su.PNG
   content: |
     In each episode of For the Living and the Dead, a Holocaust researcher talks about an object that tells a very personal story about the Holocaust.
 
-- id: geospacial
-  title:  EHRI Geospacial Repository
+- id: geospatial
+  title:  EHRI Geospatial Repository
   url: https://geodata.ehri-project.eu/geonetwork/srv/ger/catalog.search#/home
   icon: lab_profile
-  image: geospacial.PNG
+  image: geospatial.PNG
   content: |
     The EHRI Geospatial Repository contains data sets that enable to create maps and use spatial approaches in Holocaust research.
 
@@ -38,4 +38,4 @@
   icon: lab_profile
   image: digital_ed.PNG
   content: |
-    The EHRI online editions provide access to digitised annotated archive documents and connect archive holdings through a thematic approach.
+    The EHRI Online Editions provide access to digitised annotated archive documents and connect archive holdings through a thematic approach.
