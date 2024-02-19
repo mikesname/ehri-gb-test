@@ -11,14 +11,14 @@
 
 
 - id: csj
-  title: Centrum für Jüdische Studien der Karl-Franzens-Universität Graz
+  title: Centre for Jewish Studies at the University of Graz
   url: https://juedischestudien.uni-graz.at/en/about-cjs/
   image: cjs_logo.png
   content: |
     The Centre for Jewish Studies (CJS) excavates Jewish history, Jewish literatures and cultures since the age of emancipation, taking into account the diverse forms of interaction between Jews and non-Jews in research and teaching. The staff of the CJS primarily pursue theory-based research approaches and draw on concepts and methods from critical historical and cultural studies. In geographical terms, the research interests of the CJS focus primarily on Central Europe and neighbouring regions to the east and south-east.
 
 - id: doew
-  title: Dokumentationsarchiv des österreichischen Widerstandes 
+  title: Documentation Centre of Austrian Resistance
   url: https://www.doew.at/
   image: doew_logo.png
   content: |
@@ -39,7 +39,7 @@
 
 
 - id: injoest
-  title: Institut für jüdische Geschichte Österreichs 
+  title: Institute for Jewish History in Austria
   url: http://www.injoest.ac.at/
   image: injoest_logo.jpg
   content: |
@@ -48,14 +48,14 @@
 
 
 - id: lfu
-  title: Leopold-Franzens-Universität Innsbruck
+  title:  University of Innsbruck
   url: https://lfuonline.uibk.ac.at/public/lfuonline.home
   image: lfu_logo.jpg
   content: |
     Located in the heart of the Alps, Leopold Franzens University of Innsbruck, founded in 1669, is the largest research and higher educational institution in western Austria – with almost 30,000 students (approx. 50% of whom are international students) and over 5,000 employees. It is a member of the Aurora European Universities Alliance. Since its foundation in 1984, the Institute of Contemporary History has been intensively involved in research and teaching on the history of National Socialism, the Second World War and the Holocaust, Jewish history and the history of Israel as well as issues of remembrance culture and politics of history.
 
 - id: hartheim
-  title: Lern- und Gedenkort Schloss Hartheim
+  title:  Documentation Centre Hartheim
   url: https://www.schloss-hartheim.at/
   image: hartheim_logo.jpg
   content: |
@@ -66,7 +66,7 @@
 
 
 - id: nationalfonds
-  title: Nationalfonds der Republik Österreich für Opfer des Nationalsozialismus
+  title: The National Fund of the Republic of Austria for Victims of National Socialism 
   url: https://www.nationalfonds.org/startseite
   image: nf_logo_de.png
   content: |
