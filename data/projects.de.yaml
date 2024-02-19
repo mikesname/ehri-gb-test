@@ -14,28 +14,47 @@
   icon: article
   image: ns-quellen_logo.gif
   content: |
-    Diese Plattform widmet sich dem Thema Vermögensentzug zwischen 1938 und 1945 sowie den Themen Rückstellung und Entschädigung nach 1945.
- 
+    Diese Plattform widmet sich dem Thema Vermögensentzug zwischen 1938 und 1945 sowie den Themen Rückstellung und Entschädigung nach 1945
+
+- id: memento
+  title: Memento Wien
+  url: https://www.memento.wien/
+  icon: article
+  image: memento.jpg
+  content: |
+    Memento Wien, ein für mobile Endgeräte optimiertes Online-Tool, bietet Informationen zu den Opfern der NS-Diktatur in weiten Teilen Wiens
+
 - id: zwangsarbeit
   title: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
   icon: article
   image: ungarische_logo.PNG
   content: |
-    The online platform and database shed light on the fate of about 16,000 Hungarian Jews that were deported to Vienna as slave labourers.
-
-- id: memento
-  title: Memento Wien
-  url: https://www.memento.wien/
-  icon: article
-  image: 
-  content: |
-    Memento Wien, ein für mobile Endgeräte optimiertes Online-Tool, bietet Informationen zu den Opfern der NS-Diktatur in weiten Teilen Wiens
+    Die Online-Plattform und die Datenbank beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
 
 - id: derla
   title: Die digitale Erinnerungslandschaft Österreichs (DERLA) 
   url: https://gams.uni-graz.at/context:derla
   icon: article
-  image: doklady-1.png
+  image: 
   content: |
-    Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus. 
+    Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus
+
+- id: findbuch
+  title:  
+  url: https://www.findbuch.at/startseite
+  icon: article
+  image: 
+  content: |
+    Das Findbuch ermöglicht die Suche nach Personen und Unternehmen in 215238 Datensätzen von Archivbeständen u NS-Vermögensentziehungen und österreichischen Restitutions- und Entschädigungsmaßnahmen
+    
+- id: memorbuch
+  title:  Memorbuch Juden in St. Pölten
+  url: http://www.juden-in-st-poelten.at/de/
+  icon: article
+  image: 
+  content: |
+    Das Institut für jüdische Geschichte Österreichs würdigt in diesem virtuellen Memorbuch die im Nationalsozialismus vernichtete jüdische Gemeinde St. Pölten
+
+
+

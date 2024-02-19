@@ -1,17 +1,76 @@
 ---
 
-- id: whl
-  title: The Wiener Holocaust Library
-  url: https://wienerholocaustlibrary.org/
-  image: wiener-logo.svg
+- id: vwi
+  title: Vienna Wiesenthal Institute for Holocaust Studies (VWI)
+  url: https://www.vwi.ac.at/index.php/
+  image: vwi_logo.jpg
   content: |
-    The [Wiener Holocaust Library](https://wienerholocaustlibrary.org/) is one of the world's leading and most extensive archives on the Holocaust and Nazi era.
-    Formed in 1933, the Library's unique collection of over one million items includes published and unpublished works, press cuttings, photographs and eyewitness testimony.
-    The Library provides a resource to oppose anti-Semitism and other forms of prejudice and intolerance.
+    The VWI is an international research institute in Vienna. The Institute's documentation activities focus on archival collections, which include the Holocaust-related parts of the archives of the Jewish Community (IKG) – as a loan to the VWI, the estate of Simon Wiesenthal with its extensive holdings on Nazi perpetrators, private collections acquired by researchers and the Institute's library. Research projects are realised on the basis of this documentation, and the results are published in academic publications. Since its foundation in 2012, the VWI Fellowship Program has combined international Holocaust research with local knowledge and expertise. As part of its educational and outreach work, guided tours of the in-house museum are offered on a regular basis.
+    The VWI has set itself the task of passing on Wiesenthal's legacy. Through lectures, film screenings and discussions, it aims to encourage the wider public to deal with anti-Semitism, racism as well as the commemoration of the Holocaust and genocide. 
+    The VWI has been a partner institution of EHRI since 2010, with core activities in the organisation of training events, Conny Kristel Fellowships, the EHRI Document Blog and the development of a research agenda for the future of EHRI-ERIC. Within the framework of EHRI-ERIC, the VWI will coordinate the activities of EHRI-AT.
 
-    The library exists to serve scholars, professional researchers, the media and the public as a library of record and is a living memorial to the evils of the past,
-    ensuring that its wealth of materials is put at the service of the future. The Wiener Holocaust Library aims to engage people of all ages and backgrounds in
-    understanding the Holocaust and its historical context through an active educational programme and by communicating the accessibility, power and contemporary
-    relevance of its collections as a national resource for those wishing to prevent possible future genocides.
 
-    The Wiener Holocaust Library is involved in governance and legal work, finance, sustainability and research and innovation strategy.
+- id: csj
+  title: Centrum für Jüdische Studien der Karl-Franzens-Universität Graz
+  url: https://juedischestudien.uni-graz.at/en/about-cjs/
+  image: cjs_logo.png
+  content: |
+    The Centre for Jewish Studies (CJS) excavates Jewish history, Jewish literatures and cultures since the age of emancipation, taking into account the diverse forms of interaction between Jews and non-Jews in research and teaching. The staff of the CJS primarily pursue theory-based research approaches and draw on concepts and methods from critical historical and cultural studies. In geographical terms, the research interests of the CJS focus primarily on Central Europe and neighbouring regions to the east and south-east.
+
+- id: doew
+  title: Dokumentationsarchiv des österreichischen Widerstandes 
+  url: https://www.doew.at/
+  image: doew_logo.png
+  content: |
+    The Documentation Centre of Austrian Resistance (DÖW) is a research institution, library, archive, museum, information centre, place of remembrance and meeting place.
+    The DÖW researches and publishes on topics such as resistance, persecution and exile during the National Socialist era, Nazi crimes, Nazi and post-war justice, restitution and right-wing extremism after 1945.
+    The DÖW was founded in 1963 by former resistance fighters and victims of Nazi persecution as well as committed academics. From the very beginning, the DÖW's work has encompassed a broad concept of resistance and the consideration of all victim groups.
+    The DÖW has extensive archive material on the Nazi era. The holdings include police and judicial files on resistance and persecution between 1934–1938 and 1938–1945, criminal proceedings against Nazi perpetrators as well as personal files and estates. The special collections include a photo archive, an archive of Austrians who fought in the Spanish Civil War, a poster collection, a pamphlet collection, an interview collection, an art collection and documents on right-wing extremism in post-war Austria. The archives have been processed electronically and are being digitised on an ongoing basis. In addition to its core research mission, the DÖW has also compiled extensive databases on victims of the Nazi regime.
+
+
+- id: erinnern
+  title: ERINNERN:AT  
+  url: https://www.erinnern.at/
+  image: erinnern_logo.png
+  content: |
+    ERINNERN:AT is OeAD's programme for teaching and learning about National Socialism and the Holocaust. On behalf of the BMBWF, ERINNERN:AT promotes the transfer of historical and methodological-didactic knowledge into educational practice as well as reflection on the causes of the Holocaust and its consequences for the present.
+    In committees and projects at the international, national and local level, ERINNERN:AT is committed to historical-political education and its further development. The focus is on the organisation and implementation of teacher training courses on the topics of the Holocaust, National Socialism, anti-Semitism and racism. In addition to Austria-wide training courses and conferences, the core programmes include study trips to Israel, which are embedded in university courses.
+    ERINNERN:AT develops teaching materials and concepts as well as educational websites and apps suitable for use both in the classroom and in auxiliary educational contexts. In addition to further training in the development of teaching materials and other analogue and digital educational tools, ERINNERN:AT also provides training on the integration of eyewitness interviews in the classroom and supports the preparation and implementation of these in lesson plans.
+
+
+- id: injoest
+  title: Institut für jüdische Geschichte Österreichs 
+  url: http://www.injoest.ac.at/
+  image: injoest_logo.jpg
+  content: |
+    The Institute for Jewish History in Austria (Injoest) was established during the so-called “Bedenkjahr” or “Year of Reflection” in 1988 and is currently housed in the cantor's house of the former synagogue in St. Pölten. Its mission is to comprehensively research the history and culture of the Jews – as well as topics and themes constructed or labelled as Jewish – in the historically relevant boundaries of Austria from the Middle Ages to the present day. Other tasks include the reproduction and digital accessibility of pre-modern primary sources and organising publication and lecture activities, university teaching, as well as citizen science, school projects and commemorative cultural activities.
+    Since 2018, Injoest has been placing Stones of Remembrance for the victims of the Shoah at the destroyed IKG St. Pölten. The virtual memorial book (juden-in-st-poelten.at) is a contact point for international enquiries. Looking to the future, Injoest will manage the Lower Austrian content for the "Digital Remembrance Landscape" (DERLA) and also represent the region for Erinnern.at. The staff of Injoest will serve as scientific advisors for the exhibitions and events organised by the Former Synagogue, which will be reopened in 2024 as a cultural centre of the NÖKU.
+
+
+- id: lfu
+  title: Leopold-Franzens-Universität Innsbruck
+  url: https://lfuonline.uibk.ac.at/public/lfuonline.home
+  image: lfu_logo.jpg
+  content: |
+    Located in the heart of the Alps, Leopold Franzens University of Innsbruck, founded in 1669, is the largest research and higher educational institution in western Austria – with almost 30,000 students (approx. 50% of whom are international students) and over 5,000 employees. It is a member of the Aurora European Universities Alliance. Since its foundation in 1984, the Institute of Contemporary History has been intensively involved in research and teaching on the history of National Socialism, the Second World War and the Holocaust, Jewish history and the history of Israel as well as issues of remembrance culture and politics of history.
+
+- id: hartheim
+  title: Lern- und Gedenkort Schloss Hartheim
+  url: https://www.schloss-hartheim.at/
+  image: hartheim_logo.jpg
+  content: |
+    Beginning in 1898, the castle of Hartheim served as a care centre for people with disabilities. From 1940 to 1945, the castle was home to a Nazi euthanasia centre where almost 30,000 people were murdered using carbon monoxide. The victims were residents of sanatoriums, nursing homes and care facilities; concentration camp prisoners from the Mauthausen, Gusen, Dachau and Ravensbrück camps who were unable to work; as well as other forced labourers.
+    After 1945, the castle was used as a residential building for decades, and in 1969, the owner – the Upper Austrian “Landeswohltätigkeitsverein” – opened the first memorial rooms.
+    In 1995, the Schloss Hartheim Association was founded with the aim of creating an appropriate place of remembrance, commemoration and social dialogue. In 2003, the memorial site and the "Value of Life" exhibition were established as a place of learning and remembrance at Schloss Hartheim. The new permanent exhibition opened its doors in 2021.
+    The place of learning and remembrance offers visitors an extensive range of educational programmes. The Hartheim Documentation Centre is the point of contact for information and research.
+
+
+- id: nationalfonds
+  title: Nationalfonds der Republik Österreich für Opfer des Nationalsozialismus
+  url: https://www.nationalfonds.org/startseite
+  image: nf_logo_de.png
+  content: |
+    The National Fund of the Republic of Austria for Victims of National Socialism was established in 1995 to express the special responsibility of the Republic of Austria towards the victims of National Socialism. It provides benefits to victims of National Socialism, in particular persons who received no or completely inadequate compensation, those who are in particular need of assistance or for whom support appears justified due to their life situation.
+    Other tasks of the National Fund are also tied to the Republic’s special responsibility, such as the redesign and supervision of the Austrian exhibition in Auschwitz-Birkenau, the awarding of the Simon Wiesenthal Prize or performing tasks related to the restitution of looted art or the maintenance of the Shoah Wall of Names Memorial in Vienna.
+    In 2001, the Washington Agreement between Austria and the United States created the basis for restitution and compensation measures through two funds administered by the National Fund: the General Settlement Fund for Victims of National Socialism, and the Fund for the Restoration of the Jewish Cemeteries in Austria.
+    A particular concern of the National Fund is the promotion and dissemination of knowledge about National Socialism, its consequences and the fate of its victims, as well as the preservation of the memory of the victims. The National Fund also supports memorial service volunteers and international exchange programmes for young people.

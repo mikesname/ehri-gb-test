@@ -44,7 +44,7 @@ more_about_mission:
   other: Mehr über EHRIs Mission und Vision
 
 go_to:
-  other: Go to {{ .Name }}
+  other: Mehr erfahren
 
 # Contact page
 contact_send_message:
