@@ -2,9 +2,9 @@
 
 - id: aha
   name: Austrian Heritage Archive 
-  url: https://austrianheritagearchive.at/de
+  url: https://austrianheritagearchive.at/en
   icon: article
-  image: aha_logo.png
+  image: aha_logo_trans.png
   about: |
     The Austrian Heritage Archive collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards
 
@@ -12,13 +12,13 @@
   title: NS-Quellen.at
   url: http://ns-quellen.at/index.php
   icon: article
-  image: ns-quellen_logo.png
+  image: ns-quellen_logo.gif
   about: |
     The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945
 
 - id: memento
   title: Memento Wien
-  url: https://www.memento.wien/
+  url: https://www.memento.wien/en
   icon: article
   image: memento.jpg
   about: |
@@ -28,7 +28,7 @@
   name: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
   icon: article
-  image: ungarische_logo.png
+  image: ungarische_logo.PNG
   about: |
     The online platform and database sheds light on the fate of approximately 16,000 Hungarian Jews deported to Vienna as slave labourers
 
@@ -50,8 +50,8 @@
   
 - id: memorbuch
   title:  Memorbuch Juden in St. Pölten
-  url: http://www.juden-in-st-poelten.at/de/
+  url: http://www.juden-in-st-poelten.at/en/
   icon: article
   image: 
   content: |
-    With this virtual Memorbuch the Institute for Jewish History in Austria honours the Jewish community of St. Pölten which was annihilated during the time of National Socialism. 
+    With this virtual Memorbuch the Institute for Jewish History in Austria honours the Jewish community of St. Pölten which was annihilated during the time of National Socialism
