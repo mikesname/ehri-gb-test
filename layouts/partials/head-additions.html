@@ -1,8 +1,22 @@
 <!-- Add any <style> or <script> tags you need here -->
 <style>
 
-    body section.page-content[class*="projects"] .resource-card img {
+    body section.page-content.projects .resource-card img {
         object-fit: contain;
+        padding: 0 3rem;
+    }
+
+    body section.page-content.projects .resource-info {
+        padding-top: .5rem;
+    }
+
+    body section.page-content.projects .resource-info p {
+        line-clamp: unset;
+        -webkit-line-clamp: unset;
+    }
+
+    body section.page-content.projects .resource-card a.button-primary {
+        white-space: break-spaces;
     }
 
     p, 

@@ -9,7 +9,7 @@
     The Austrian Heritage Archive collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards
 
 - id: ns-quellen
-  name: NS-Quellen.at
+  title: NS-Quellen.at
   url: http://ns-quellen.at/index.php
   icon: article
   image: ns-quellen_logo.png
@@ -17,7 +17,7 @@
     The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945
 
 - id: memento
-  name: Memento Wien
+  title: Memento Wien
   url: https://www.memento.wien/
   icon: article
   image: memento.jpg
@@ -33,7 +33,7 @@
     The online platform and database sheds light on the fate of approximately 16,000 Hungarian Jews deported to Vienna as slave labourers
 
 - id: derla
-  name: Die digitale Erinnerungslandschaft Österreichs (DERLA) 
+  title: Die digitale Erinnerungslandschaft Österreichs (DERLA)
   url: https://gams.uni-graz.at/context:derla
   icon: article
   image: 
@@ -47,4 +47,4 @@
   image: 
   content: |
     This online finding aid aims to assist the victims of National Socialism and their descendants, as well as historians, members of local remembrance initiatives and the interested public, in accessing and searching the holdings of Austrian archives
-    
+  
