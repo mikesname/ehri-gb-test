@@ -3,10 +3,10 @@
 - id: portal
   title: The EHRI Portal
   url: https://portal.ehri-project.eu/
-  icon: meeting_room
+  icon: article
   image: portal_de.PNG
   content: |
-    lorem ipsum
+    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
 
 - id: blog
   title: Document Blog
@@ -14,7 +14,7 @@
   icon: article
   image: dok_blog.PNG
   content: |
-    lorem ipsum
+    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
 
 - id: podcast
   title: EHRI Podcast
@@ -22,7 +22,7 @@
   icon: lab_profile
   image: podcast_su.PNG
   content: |
-    lorem ipsum
+    In each episode of For the Living and the Dead, a Holocaust researcher talks about an object that tells a very personal story about the Holocaust.
 
 - id: geospacial
   title:  EHRI Geospacial Repository
@@ -30,7 +30,7 @@
   icon: lab_profile
   image: geospacial.PNG
   content: |
-    Lorem ipsum
+    The EHRI Geospatial Repository contains data sets that enable to create maps and use spatial approaches in Holocaust research.
 
 - id: editions
   title: EHRI Online Editions
@@ -38,4 +38,4 @@
   icon: lab_profile
   image: digital_ed.PNG
   content: |
-    Lorem ipsum
+    The EHRI online editions provide access to digitised annotated archive documents and connect archive holdings through a thematic approach.
