@@ -1,7 +1,7 @@
 ---
 
 - id: aha
-  name: Austrian Heritage Archive 
+  title: Austrian Heritage Archive 
   url: https://austrianheritagearchive.at/en
   icon: article
   image: aha_logo_trans.png
@@ -25,7 +25,7 @@
     Memento Vienna is an online tool, optimised for devices such as tablets and smartphones, that offers information about the victims of the Nazi regime in Vienna.
 
 - id: zwangsarbeit
-  name: Ungarische Zwangsarbeit in Wien 
+  title: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
   icon: article
   image: hu_zwa_3.PNG

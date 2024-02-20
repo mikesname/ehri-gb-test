@@ -10,7 +10,8 @@ The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project
 <br/><br/> 
 <br/><br/>
 
-EHRI-AT will seek to ensure the long-term sustainability of Holocaust research within Austria and beyond by:\
+EHRI-AT will seek to ensure the long-term sustainability of Holocaust research within Austria and beyond by:
+<br/><br/> 
 •	representing institutions in Austria working in the field of documentation, commemoration and research on the Holocaust to establish and develop a strong research consortium;\
 •	exchanging and sharing expertise on digital developments and connecting resources through a state-of-the-art digital infrastructure;\
 •	disseminating, implementing and developing innovative digital research tools;\

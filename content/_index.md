@@ -1,5 +1,5 @@
 ---
-title: European Holocaust Research Infrastructure - The Austrian consortium 
+title: European Holocaust Research Infrastructure - The Austrian Consortium 
 description: Welcome to the Austrian Holocaust Research Infrastructure
 ---
 
