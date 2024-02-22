@@ -2,7 +2,10 @@ contact_social:
   other: "EHRI on social media"
 
 projects:
-  other: "Projects in Austria"
+  other: "Services in Austria"
 
 go_to:
   other: "Read more"
+
+services:
+  other: "EHRI Services"

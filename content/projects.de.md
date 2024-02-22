@@ -1,8 +1,8 @@
 ---
-title: Projekte von Partnerinstitutionen in Österreich
+title: Dienste von Partnerinstitutionen in Österreich
 type: projects
 ---
 
 {{< intro >}}
-Hier finden Sie eine Übersicht über die digitalen Projekte, die EHRI-AT Partnerinstitutionen zur Verfügung stellen:
+Hier finden Sie eine Übersicht über die digitalen Dienste, die EHRI-AT Partnerinstitutionen zur Verfügung stellen:
 {{< /intro >}}
