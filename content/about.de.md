@@ -27,4 +27,4 @@ Das EHRI-Portal ist eines der zentralen Projekte in EHRI. Das Portal soll Forsch
 
 _Eine zweite Liste, nämlich die der Archive, ländermässig aufgestellt, mit Angaben über den Inhalt der Archive, ist in Bearbeitung und wird ländermässig an die interessierten Stellen versandt. Wir haben bisher die Listen der Archive in der Tschechoslowakei, Israel und Westdeutschland fertiggestellt. Wenn die Arbeit fertig ist, wird das Dokumentationszentrum eine spezielle Broschüre herausgeben. Sowohl Gerichte, wie auch Historiker und Forscher werden davon einen Nutzen haben, denn wir versuchen, bei der Angabe der Adresse des Archives auch mitzuteilen, welche Art von Dokumenten es beinhaltet._"
 
-_Dokumentationszetrum des Bundes jüdischer Verfolgter des Naziregimes, Bulletin Nr. 9, 31. Jänner 1969, S. 6, Bulletin (deutsch)-1969/1_
+_Dokumentationszentrum des Bundes jüdischer Verfolgter des Naziregimes, Bulletin Nr. 9, 31. Jänner 1969, S. 6, Bulletin (deutsch)-1969/1_

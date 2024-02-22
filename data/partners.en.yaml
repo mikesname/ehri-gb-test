@@ -6,7 +6,7 @@
   image: vwi_logo.jpg
   content: |
     The VWI is an international research institute in Vienna. The Institute's documentation activities focus on archival collections, which include the Holocaust-related parts of the archives of the Jewish Community (IKG) – as a loan to the VWI, the estate of Simon Wiesenthal with its extensive holdings on Nazi perpetrators, private collections acquired by researchers and the Institute's library. Research projects are realised on the basis of this documentation, and the results are published in academic publications. Since its foundation in 2012, the VWI Fellowship Program has combined international Holocaust research with local knowledge and expertise. As part of its educational and outreach work, guided tours of the in-house museum are offered on a regular basis.
-    The VWI has set itself the task of passing on Wiesenthal's legacy. Through lectures, film screenings and discussions, it aims to encourage the wider public to deal with anti-Semitism, racism as well as the commemoration of the Holocaust and genocide. 
+    The VWI has set itself the task of passing on Wiesenthal's legacy. Through lectures, film screenings and discussions, it aims to encourage the wider public to deal with antisemitism, racism as well as the commemoration of the Holocaust and genocide. 
     The VWI has been a partner institution of EHRI since 2010, with core activities in the organisation of training events, Conny Kristel Fellowships, the EHRI Document Blog and the development of a research agenda for the future of EHRI-ERIC. Within the framework of EHRI-ERIC, the VWI will coordinate the activities of EHRI-AT.
 
 
@@ -29,7 +29,7 @@
 
 
 - id: erinnern
-  title: ERINNERN:AT  
+  title: ERINNERN:AT
   url: https://www.erinnern.at/
   image: erinnern_logo.png
   content: |
@@ -44,7 +44,7 @@
   image: injoest_logo.jpg
   content: |
     The Institute for Jewish History in Austria (Injoest) was established during the so-called “Bedenkjahr” or “Year of Reflection” in 1988 and is currently housed in the cantor's house of the former synagogue in St. Pölten. Its mission is to comprehensively research the history and culture of the Jews – as well as topics and themes constructed or labelled as Jewish – in the historically relevant boundaries of Austria from the Middle Ages to the present day. Other tasks include the reproduction and digital accessibility of pre-modern primary sources and organising publication and lecture activities, university teaching, as well as citizen science, school projects and commemorative cultural activities.
-    Since 2018, Injoest has been placing Stones of Remembrance for the victims of the Shoah at the destroyed IKG St. Pölten. The virtual memorial book (juden-in-st-poelten.at) is a contact point for international enquiries. Looking to the future, Injoest will manage the Lower Austrian content for the "Digital Remembrance Landscape" (DERLA) and also represent the region for Erinnern.at. The staff of Injoest will serve as scientific advisors for the exhibitions and events organised by the Former Synagogue, which will be reopened in 2024 as a cultural centre of the NÖKU.
+    Since 2018, Injoest has been placing Stones of Remembrance for the victims of the Shoah at the destroyed IKG St. Pölten. The virtual memorial book (juden-in-st-poelten.at) is a contact point for international enquiries. Looking to the future, Injoest will manage the Lower Austrian content for the "Digital Remembrance Landscape" (DERLA) and also represent the region for ERINNERN:AT. The staff of Injoest will serve as scientific advisors for the exhibitions and events organised by the Former Synagogue, which will be reopened in 2024 as a cultural centre of the NÖKU.
 
 
 - id: lfu
@@ -55,7 +55,7 @@
     Located in the heart of the Alps, Leopold Franzens University of Innsbruck, founded in 1669, is the largest research and higher educational institution in western Austria – with almost 30,000 students (approx. 50% of whom are international students) and over 5,000 employees. It is a member of the Aurora European Universities Alliance. Since its foundation in 1984, the Institute of Contemporary History has been intensively involved in research and teaching on the history of National Socialism, the Second World War and the Holocaust, Jewish history and the history of Israel as well as issues of remembrance culture and politics of history.
 
 - id: hartheim
-  title:  Documentation Centre Hartheim
+  title:  Memorial Site Hartheim Castle - Place for Learning and Remembrance 
   url: https://www.schloss-hartheim.at/
   image: hartheim_logo.jpg
   content: |
