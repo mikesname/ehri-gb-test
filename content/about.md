@@ -24,7 +24,7 @@ EHRI’s impact is primarily scientific; however, the infrastructure also pursue
 
 The EHRI portal is one of the central projects in EHRI. It is intended to provide researchers with a cross-national overview of archive material on the Holocaust. Since 2010, EHRI has identified over 2,233 archives from 63 countries and integrated information on over 37,000 collections. The need for such an infrastructure in Austria was already recognised by Simon Wiesenthal in the 1960s. He worked in Vienna with the Documentation Center of the Association of Jewish Persecutees of the Nazi Regime on a "List of Archives with Material on the Nazi Era". The brochure was intended to support the work of courts and researchers. Lists of archives in Czechoslovakia, Israel and West Germany were compiled for this purpose. As can be seen from the following quote, there were striking similarities between Wiesenthal's project and the digital EHRI portal.
 
-         {{< figure src="../../images/zitat_sw_hq.png" >}}
+        {{< figure src="../images/zitat_sw_hq.png" >}}
 
 "_21. LIST OF ARCHIVES WITH DOCUMENTS ABOUT THE NAZI PERIOD._
 
