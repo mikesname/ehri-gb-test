@@ -5,9 +5,8 @@ description: Willkommen bei der österreichischen Holocaust-Forschungsinfrastruk
 
 <br/><br/> 
 
-Am 13. März 1938 wurde die gemeinhin als „Anschluss“ bezeichnete Eingliederung des zuvor austrofaschistisch regierten Österreichs in das nationalsozialistische Deutsche Reich per Gesetz verkündet. Einen Tag zuvor passierten die deutschen Truppen die Grenze zu Österreich. Eine von Propaganda begleitete Volksabstimmung führte schließlich am 10. April 1938 zur Anerkennung des „Gesetzes über Wiedervereinigung Österreichs mit dem Deutschen Reich“. 
+Am 12. März 1938 erfolgte der sogenannten „Anschluss“ des bis dahin faschistisch regierten Österreichs. Der „Anschluss“ war eine militärische Okkupation durch den Einmarsch deutscher Truppen ebenso wie ein Akt der Machtübernahme von unten durch die österreichischen Nationalsozialist:innen und vollzog sich von innen im Rahmen der österreichischen Institutionen und Gesetze. 
 
 <br/><br/> 
 
-Zu den darauffolgenden nationalsozialistischen Verbrechen, die bis Kriegsende 1945 unter anderem in Österreich begangen wurden, finden sich in zahlreichen Archiven, Forschungseinrichtungen und Gedenkstätten überlieferte Akten. EHRI-AT arbeitet unter anderem daran, dieses Quellenmaterial in Österreich durch eine nationale digitale Holocaust-Forschungsinfrastruktur findbar und zugängig zu machen.
- 
+In zahlreichen Archiven, in Forschungseinrichtungen und Gedenkstätten befinden sich die überlieferten Akten zu den nationalsozialistischen Verbrechen in Österreich. EHRI-AT arbeitet unter anderem daran, dieses Quellenmaterial in Österreich durch eine nationale digitale Holocaust-Forschungsinfrastruktur findbar und zugängig zu machen.

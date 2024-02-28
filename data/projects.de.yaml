@@ -24,6 +24,14 @@
   content: |
     Memento Wien, ein für mobile Endgeräte optimiertes Online-Tool, bietet Informationen zu den Opfern der NS-Diktatur in weiten Teilen Wiens
 
+- id: memorbuch
+  title:  Memorbuch, Juden in St. Pölten
+  url: http://www.juden-in-st-poelten.at/de/
+  icon: article
+  image: memorbuch.png
+  content: |
+    Seit Jahrhunderten verzeichnen Memorbücher die Namen jüdischer Verstorbener und Ermordeter sowie zerstörter jüdischer Gemeinden. Das Injoest würdigt in diesem virtuellen Memorbuch die im Nationalsozialismus vernichtete jüdische Gemeinde St. Pöltens.
+
 - id: zwangsarbeit
   title: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
@@ -48,10 +56,3 @@
   content: |
     Das Findbuch ermöglicht die Suche nach Personen und Unternehmen in 215238 Datensätzen von Archivbeständen zu NS-Vermögensentziehungen und österreichischen Restitutions- und Entschädigungsmaßnahmen  
     
-- id: memorbuch
-  title:  Memorbuch Juden in St. Pölten
-  url: http://www.juden-in-st-poelten.at/de/
-  icon: article
-  image: 
-  content: |
-    Das Institut für jüdische Geschichte Österreichs würdigt in diesem virtuellen Memorbuch die im Nationalsozialismus vernichtete jüdische Gemeinde St. Pölten

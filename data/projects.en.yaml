@@ -24,6 +24,14 @@
   content: |
     Memento Vienna is an online tool, optimised for devices such as tablets and smartphones, that offers information about the victims of the Nazi regime in Vienna.
 
+- id: memorbuch
+  title:  Memorbuch, Juden in St. Pölten
+  url: http://www.juden-in-st-poelten.at/en/
+  icon: article
+  image: memorbuch.png
+  content: |
+    For centuries, Memorbücher, books of remembrance, have been documenting the deaths and murdered Jews as well as of obliterated Jewish communities. With this virtual Memorbuch the Injoest honours the Jewish community of St. Pölten which was annihiliated during the time of National Socialism.
+
 - id: zwangsarbeit
   title: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
@@ -48,10 +56,3 @@
   content: |
     This online finding aid aims to assist the victims of National Socialism and their descendants, as well as historians, members of local remembrance initiatives and the interested public, in accessing and searching the holdings of Austrian archives.
   
-- id: memorbuch
-  title:  Memorbuch Juden in St. Pölten
-  url: http://www.juden-in-st-poelten.at/en/
-  icon: article
-  image: 
-  content: |
-    With this virtual Memorbuch the Institute for Jewish History in Austria honours the Jewish community of St. Pölten which was annihilated during the time of National Socialism.
