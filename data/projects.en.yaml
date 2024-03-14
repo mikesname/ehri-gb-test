@@ -6,42 +6,10 @@
   icon: article
   image: aha_logo_trans.png
   content: |
-    The Austrian Heritage Archive (AHA) collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel during the National Socialist period or immediately afterwards
-
-- id: ns-quellen
-  title: NS-Quellen.at
-  url: http://ns-quellen.at/index.php
-  icon: article
-  image: ns-quellen_logo.gif
-  content: |
-    The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property between 1938 and 1945 and the topic of restitution and compensation in Austria after 1945.
-
-- id: memento
-  title: Memento Wien
-  url: https://www.memento.wien/en
-  icon: article
-  image: memento.jpg
-  content: |
-    Memento Vienna is an online tool, optimised for devices such as tablets and smartphones, that offers information about the victims of the Nazi regime in Vienna.
-
-- id: memorbuch
-  title:  Memorbuch, Juden in St. Pölten
-  url: http://www.juden-in-st-poelten.at/en/
-  icon: article
-  image: memorbuch.png
-  content: |
-    For centuries, Memorbücher, books of remembrance, have been documenting the deaths and murdered Jews as well as of obliterated Jewish communities. With this virtual Memorbuch the Injoest honours the Jewish community of St. Pölten which was annihiliated during the time of National Socialism.
-
-- id: zwangsarbeit
-  title: Ungarische Zwangsarbeit in Wien 
-  url: https://ungarische-zwangsarbeit-in-wien.at/
-  icon: article
-  image: hu_zwa_3.PNG
-  content: |
-    The online platform and database sheds light on the fate of approximately 16,000 Hungarian Jews deported to Vienna as slave labourers.
+    The Austrian Heritage Archive (AHA) collects video and audio interviews with Jewish Austrian emigrés who fled to the USA or Palestine/Israel
 
 - id: derla
-  title: Die digitale Erinnerungslandschaft Österreichs (DERLA)
+  title: DERLA
   url: https://gams.uni-graz.at/context:derla
   icon: article
   image: 
@@ -49,10 +17,66 @@
     Digitale Erinnerungslandschaft Österreichs (DERLA) is a documentation and education project that mainly documents Austrian memorial sites and signs for the victims of National Socialism.
 
 - id: findbuch
-  title:  Findbuch for Victims Of National Socialism
+  title:  Findbuch for Victims of National Socialism
   url: https://www.findbuch.at/startseite
   icon: article
-  image: 
+  image: finbuch_logo.jpg
   content: |
-    This online finding aid aims to assist the victims of National Socialism and their descendants, as well as historians, members of local remembrance initiatives and the interested public, in accessing and searching the holdings of Austrian archives.
-  
+    The Findbuch enables users to search files held in Austrian archives relating to Nazi property seizures, as well as restitution and compensation measures
+
+- id: fogis
+  title: FOGIS
+  url: https://maps.nationalfonds.org
+  icon: article
+  image: fogis_logo.jpg
+  content: |
+    FOGIS shows properties that have been the subject of decisions of the Arbitration Panel for In Rem Restitution, Jewish cemeteries, memorial stones and projects sponsored by NF on a on an interactive map 
+
+- id: nf_projekte
+  title:  Geförderte Projekte des Nationalfonds
+  url: https://www.nationalfonds.org/gefoerderte-projekte 
+  icon: article
+  image: db_nf_logo.jpg
+  content: |
+    The database documents the projects funded by the National Fund 
+
+- id: memento
+  title: Memento Wien
+  url: https://www.memento.wien/en
+  icon: article
+  image: memento.jpg
+  content: |
+    Memento Vienna is an online tool, optimised for devices such as tablets and smartphones, that offers information about the victims of the Nazi regime in Vienna
+
+- id: memorbuch
+  title:  Memorbuch, Juden in St. Pölten
+  url: http://www.juden-in-st-poelten.at/en/
+  icon: article
+  image: memorbuch.png
+  content: |
+    With this virtual Memorbuch the Injoest honours the Jewish community of St. Pölten which was annihiliated during the time of National Socialism.
+
+- id: ns-quellen
+  title: NS-Quellen.at
+  url: http://ns-quellen.at/index.php
+  icon: article
+  image: ns-quellen_logo.gif
+  content: |
+    The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property, as well as the topic of restitution and compensation in Austria after 1945
+
+- id: zwangsarbeit
+  title: Ungarische Zwangsarbeit in Wien 
+  url: https://ungarische-zwangsarbeit-in-wien.at/
+  icon: article
+  image: hu_zwa_3.PNG
+  content: |
+    The online platform and database sheds light on the fate of approximately 16,000 Hungarian Jews deported to Vienna as slave labourers
+
+- id: weiter_erzählen
+  title: weiter_erzählen 
+  url: https://www.weitererzaehlen.at
+  icon: article
+  image: weiter_logo.jpg
+  content: |
+    Die Online-Plattform beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
+

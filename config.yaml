@@ -1,4 +1,4 @@
-baseURL: 'https://www.ehri.at'
+baseURL: 'http://www.ehri.at/'
 languageCode: de-AT
 title: Austria
 theme: ehri-nn

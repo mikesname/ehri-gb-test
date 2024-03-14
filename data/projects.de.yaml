@@ -6,15 +6,39 @@
   icon: article
   image: aha_logo_trans.png
   content: |
-    Das Austrian Heritage Archive (AHA) versammelt Audio- und Video-Interviews mit österreichisch-jüdischen Emigrantinnen und Emigranten, die in der Zeit des Nationalsozialismus und unmittelbar danach in die USA oder nach Palästina/Israel flüchteten.
+    Das Austrian Heritage Archive (AHA) versammelt Audio- und Video-Interviews mit österreichisch-jüdischen Emigrantinnen und Emigranten, die in die USA oder nach Palästina/Israel flüchteten.
 
-- id: ns-quellen
-  title: NS-Quellen.at
-  url: http://ns-quellen.at/index.php
+- id: derla
+  title: DERLA 
+  url: https://gams.uni-graz.at/context:derla
   icon: article
-  image: ns-quellen_logo.gif
+  image: 
   content: |
-    Diese Plattform widmet sich dem Thema Vermögensentzug zwischen 1938 und 1945 sowie den Themen Rückstellung und Entschädigung nach 1945
+    Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus
+
+- id: findbuch
+  title:  Findbuch für Opfer des Nationalsozialismus
+  url: https://www.findbuch.at/startseite
+  icon: article
+  image: finbuch_logo.jpg
+  content: |
+      Das Findbuch ermöglicht die Suche nach Personen und Unternehmen in Akten zu NS-Vermögensentziehungen und Restitutions- und Entschädigungsmaßnahmen
+
+- id: fogis
+  title: FOGIS
+  url: https://maps.nationalfonds.org
+  icon: article
+  image: fogis_logo.jpg
+  content: |
+    FOGIS zeigt auf einer interaktiven Karte Liegenschaften, die in den Entscheidungen der Schiedsinstanz für Naturalrestitution behandelt wurden, jüdischen Friedhöfe, Gedenksteine und geförderten Projekte
+
+- id: nf_projekte
+  title:  Geförderte Projekte des Nationalfonds
+  url: https://www.nationalfonds.org/gefoerderte-projekte 
+  icon: article
+  image: db_nf_logo.jpg
+  content: |
+    Die Datenbank dokumentiert die vom Nationalfonds geförderten Projekte
 
 - id: memento
   title: Memento Wien
@@ -30,7 +54,15 @@
   icon: article
   image: memorbuch.png
   content: |
-    Seit Jahrhunderten verzeichnen Memorbücher die Namen jüdischer Verstorbener und Ermordeter sowie zerstörter jüdischer Gemeinden. Das Injoest würdigt in diesem virtuellen Memorbuch die im Nationalsozialismus vernichtete jüdische Gemeinde St. Pöltens.
+    Das Injoest würdigt in diesem virtuellen Memorbuch die im Nationalsozialismus vernichtete jüdische Gemeinde St. Pöltens
+
+- id: ns-quellen
+  title: NS-Quellen.at
+  url: http://ns-quellen.at/index.php
+  icon: article
+  image: ns-quellen_logo.gif
+  content: |
+    Diese Plattform widmet sich dem Thema Vermögensentzug zwischen 1938 und 1945 sowie den Themen Rückstellung und Entschädigung nach 1945
 
 - id: zwangsarbeit
   title: Ungarische Zwangsarbeit in Wien 
@@ -38,21 +70,13 @@
   icon: article
   image: hu_zwa_3.PNG
   content: |
-    Die Online-Plattform und die Datenbank beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
+    Die Online-Plattform beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
 
-- id: derla
-  title: Die digitale Erinnerungslandschaft Österreichs (DERLA) 
-  url: https://gams.uni-graz.at/context:derla
+- id: weiter_erzählen
+  title: weiter_erzählen 
+  url: https://www.weitererzaehlen.at
   icon: article
-  image: 
+  image: weiter_logo.jpg
   content: |
-    Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus
-
-- id: findbuch
-  title:  Findbuch for Victims Of National Socialism
-  url: https://www.findbuch.at/startseite
-  icon: article
-  image: 
-  content: |
-    Das Findbuch ermöglicht die Suche nach Personen und Unternehmen in 215238 Datensätzen von Archivbeständen zu NS-Vermögensentziehungen und österreichischen Restitutions- und Entschädigungsmaßnahmen  
+    Die Online-Plattform beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
     
