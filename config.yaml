@@ -29,9 +29,8 @@ params:
       logo: 'eu-logo.svg'
       url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
     - name: Bundesministerium für Bildung, Wissenschaft und Forschung
-      logo: 'bmbwf_logo.png'
+      logo: 'bmbwf_logo.svg'
       url: 'https://www.bmbwf.gv.at/'
-
 
 # Configure syntax highlighting for the examples on the `training` page
 markup:
