@@ -1,4 +1,4 @@
-baseURL: 'http://www.ehri.at/'
+baseURL: 'https://www.ehri.at/'
 languageCode: de-AT
 title: Austria
 theme: ehri-nn
@@ -28,6 +28,10 @@ params:
     - name: EHRI is funded by the European Commission
       logo: 'eu-logo.svg'
       url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
+    - name: Bundesministerium für Bildung, Wissenschaft und Forschung
+      logo: 'bmbwf_logo.png'
+      url: 'https://www.bmbwf.gv.at/'
+
 
 # Configure syntax highlighting for the examples on the `training` page
 markup:

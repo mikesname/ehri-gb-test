@@ -12,13 +12,13 @@
   title: DERLA
   url: https://gams.uni-graz.at/context:derla
   icon: article
-  image: 
+  image: derla_logo.PNG
   content: |
     Digitale Erinnerungslandschaft Österreichs (DERLA) is a documentation and education project that mainly documents Austrian memorial sites and signs for the victims of National Socialism.
 
 - id: findbuch
   title:  Findbuch for Victims of National Socialism
-  url: https://www.findbuch.at/startseite
+  url: https://maps.nationalfonds.org/home
   icon: article
   image: finbuch_logo.jpg
   content: |
@@ -32,13 +32,6 @@
   content: |
     FOGIS shows properties that have been the subject of decisions of the Arbitration Panel for In Rem Restitution, Jewish cemeteries, memorial stones and sponsored project on an interactive map 
 
-- id: nf_projekte
-  title:  Geförderte Projekte des Nationalfonds
-  url: https://www.nationalfonds.org/gefoerderte-projekte 
-  icon: article
-  image: db_nf_logo.jpg
-  content: |
-    The database documents the projects funded by the National Fund 
 
 - id: memento
   title: Memento Wien
@@ -54,7 +47,7 @@
   icon: article
   image: memorbuch.png
   content: |
-    With this virtual Memorbuch the Injoest honours the Jewish community of St. Pölten which was annihiliated during the time of National Socialism.
+    With this virtual Memorbuch the Injoest honours the Jewish community of St. Pölten which was annihiliated during the time of National Socialism
 
 - id: ns-quellen
   title: NS-Quellen.at
@@ -63,6 +56,14 @@
   image: ns-quellen_logo.gif
   content: |
     The online platform NS-Quellen.at is dedicated to the confiscation of Jewish property, as well as the topic of restitution and compensation in Austria after 1945
+
+- id: nf_projekte
+  title:  Geförderte Projekte des Nationalfonds
+  url: https://www.nationalfonds.org/projects-sponsored
+  icon: article
+  image: db_nf_logo.jpg
+  content: |
+    The database documents the projects funded by the National Fund 
 
 - id: zwangsarbeit
   title: Ungarische Zwangsarbeit in Wien 
@@ -78,5 +79,5 @@
   icon: article
   image: weiter_logo.jpg
   content: |
-    Die Online-Plattform beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
+    The website collects and presents video and audio interviews with victims of National Socialism, who have a connection to Austria
 

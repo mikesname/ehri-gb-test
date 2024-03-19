@@ -12,7 +12,7 @@
   title: DERLA 
   url: https://gams.uni-graz.at/context:derla
   icon: article
-  image: 
+  image: derla_logo.PNG
   content: |
     Die digitale Erinnerungslandschaft Österreichs (DERLA) dokumentiert österreichische Erinnerungsorte und -zeichen für die Opfer sowie die Orte des Terrors des Nationalsozialismus
 
@@ -30,15 +30,8 @@
   icon: article
   image: fogis_logo.jpg
   content: |
-    FOGIS zeigt auf einer interaktiven Karte Liegenschaften, die in den Entscheidungen der Schiedsinstanz für Naturalrestitution behandelt wurden, jüdischen Friedhöfe, Gedenksteine und geförderten Projekte
+    FOGIS zeigt auf einer interaktiven Karte Liegenschaften, die in den Entscheidungen der Schiedsinstanz für Naturalrestitution behandelt wurden, jüdische Friedhöfe, Gedenksteine und geförderte Projekte
 
-- id: nf_projekte
-  title:  Geförderte Projekte des Nationalfonds
-  url: https://www.nationalfonds.org/gefoerderte-projekte 
-  icon: article
-  image: db_nf_logo.jpg
-  content: |
-    Die Datenbank dokumentiert die vom Nationalfonds geförderten Projekte
 
 - id: memento
   title: Memento Wien
@@ -64,6 +57,14 @@
   content: |
     Diese Plattform widmet sich dem Thema Vermögensentzug zwischen 1938 und 1945 sowie den Themen Rückstellung und Entschädigung nach 1945
 
+- id: nf_projekte
+  title:  Geförderte Projekte des Nationalfonds
+  url: https://www.nationalfonds.org/gefoerderte-projekte 
+  icon: article
+  image: db_nf_logo.jpg
+  content: |
+    Die Datenbank dokumentiert die vom Nationalfonds geförderten Projekte
+
 - id: zwangsarbeit
   title: Ungarische Zwangsarbeit in Wien 
   url: https://ungarische-zwangsarbeit-in-wien.at/
@@ -78,5 +79,5 @@
   icon: article
   image: weiter_logo.jpg
   content: |
-    Die Online-Plattform beleuchten das Schicksal von rund 16.000 ungarischen Juden, die als Sklavenarbeiter nach Wien deportiert wurden
+    Die Website sammelt und präsentiert Video- und Audiointerviews mit Verfolgten des Nationalsozialismus, die einen Bezug zu Österreich haben
     
