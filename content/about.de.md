@@ -21,7 +21,7 @@ Die Ziele von EHRI sind in erster Linie wissenschaftliche, doch die Forschungsin
 
 Das EHRI-Portal ist eines der zentralen Projekte in EHRI. Das Portal soll Forscher:innen einen landesübergreifenden Überblick über Archivmaterial zum Holocaust verschaffen. Seit 2010 hat EHRI über 2.233 Archive aus 63 Ländern identifiziert und Informationen zu über 37.000 Sammlungen integriert. Der Bedarf nach einer solchen Infrastruktur wurde in Österreich bereits in den 1960er Jahren von Simon Wiesenthal erkannt. Er arbeitete in Wien mit dem Dokumentationszentrum des Bundes Jüdischer Verfolgter des Naziregimes an einer „Liste der Archive mit Material über die Nazizeit“. Die Broschüre war als Unterstützung für Gerichte und Forscher:innen gedacht. Dafür wurden Listen von Archiven in Tschechoslowakei, Israel, West-Deutschland fertiggestellt. Wie aus dem folgenden Zitat deutlich wird, gab es auffällige Gemeinsamkeiten zwischen Wiesenthals Projekt und dem digitalen EHRI-Portal.
 
-         {{< figure src="../../images/zitat_sw_hq.png" >}}
+         {{< figure src="../images/zitat_sw_hq.png" >}}
 
 "_21. LISTE DER ARCHIVE MIT MATERIAL ÜBER DIE NAZIZEIT._
 
