@@ -3,7 +3,7 @@ languageCode: de-AT
 title: Austria
 theme: ehri-nn
 copyright: '© 2010-{year} EHRI Consortium.'
-defaultContentLanguage: en
+defaultContentLanguage: de
 dateFormat: '2 January 2006'
 summaryLength: 40
 params:
@@ -102,32 +102,32 @@ languages:
     menu:
       main:
         - identifier: news
-          pageRef: de/news/
+          pageRef: news/
           weight: 10
         - identifier: about
-          pageRef: de/about/
+          pageRef: about/
           weight: 20
         - identifier: partners
-          pageRef: de/partners
+          pageRef: partners
           weight: 30
         - identifier: projects
-          pageRef: de/projects
+          pageRef: projects
           weight: 40
         - identifier: services
-          pageRef: de/services
+          pageRef: services
           weight: 50
         - identifier: contact
-          pageRef: de/contact
+          pageRef: contact
           weight: 60
       footer:
         - identifier: about
-          pageRef: de/about/
+          pageRef: about/
           weight: 20
         - identifier: partners
-          pageRef: de/partners
+          pageRef: partners
           weight: 30
         - identifier: projects
-          pageRef: de/projects
+          pageRef: projects
           weight: 40
       services:
         - identifier: document_blog
