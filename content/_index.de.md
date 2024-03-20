@@ -5,4 +5,8 @@ description: Willkommen bei der österreichischen Holocaust-Forschungsinfrastruk
 
 <br/><br/> 
 
-Am 12. März 1938 erfolgte der sogenannte „Anschluss“ des bis dahin faschistisch regierten Österreichs. Der „Anschluss“ war eine militärische Okkupation durch den Einmarsch deutscher Truppen ebenso wie ein Akt der Machtübernahme von unten durch die österreichischen Nationalsozialist:innen und vollzog sich von innen im Rahmen der österreichischen Institutionen und Gesetze. In zahlreichen Archiven, in Forschungseinrichtungen und Gedenkstätten befinden sich die überlieferten Akten zu den nationalsozialistischen Verbrechen in Österreich. EHRI-AT arbeitet unter anderem daran, dieses Quellenmaterial in Österreich durch eine nationale digitale Holocaust-Forschungsinfrastruktur findbar und zugängig zu machen.
+EHRI-AT vernetzt Archive, Museen, Gedenkinstitutionen und Forschungseinrichtungen aus dem Bereich der Holocaustforschung,-dokumentation und -bildung in Österreich. 
+
+EHRI-AT arbeitet daran, Quellenmaterial zu den nationalsozialistischen Verbrechen in Österreich durch eine digitale Forschungsinfrastruktur findbar und zugänglich zu machen.
+
+EHRI-AT initiiert grenzüberschreitende Kooperationen und fördert die Forschung zu den unterschiedlichen Opfergruppen des Holocaust.
