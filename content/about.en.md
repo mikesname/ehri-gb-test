@@ -4,7 +4,7 @@ type: about
 ---
 
 {{< intro >}}
-The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) is an international infrastructure that supports and promotes Holocaust research, commemoration and education on a transnational level. EHRI-AT is the national node representing the Federal Republic of Austria within this international research consortium.
+The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) is an international infrastructure that supports and promotes Holocaust research, commemoration and education on a transnational level. EHRI-AT is the national node representing the Republic of Austria within this international research consortium.
 {{< /intro >}}
 
 <br/><br/> 

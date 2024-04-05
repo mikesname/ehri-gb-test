@@ -5,7 +5,7 @@ description: Willkommen bei der österreichischen Holocaust-Forschungsinfrastruk
 
 <br/><br/> 
 
-EHRI-AT vernetzt Archive, Museen, Gedenkinstitutionen und Forschungseinrichtungen aus dem Bereich der Holocaustforschung,-dokumentation und -bildung in Österreich. 
+EHRI-AT vernetzt Archive, Museen, Gedenkinstitutionen und Forschungseinrichtungen aus dem Bereich der Holocaustforschung, -dokumentation und -bildung in Österreich. 
 
 EHRI-AT arbeitet daran, Quellenmaterial zu den nationalsozialistischen Verbrechen in Österreich durch eine digitale Forschungsinfrastruktur findbar und zugänglich zu machen.
 

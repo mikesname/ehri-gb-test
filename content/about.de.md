@@ -5,7 +5,7 @@ type: about
 ---
 
 {{< intro >}}
-Die [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) ist eine internationale Infrastruktur, die Holocaust-Forschung, -Gedenken und -Vermittlung auf transnationaler Ebene gewährleistet. EHRI-AT ist das nationale Konsortium, das die Bundesrepublik Österreich innerhalb dieses internationalen Forschungskonsortiums vertritt.
+Die [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) ist eine internationale Infrastruktur, die Holocaust-Forschung, -Gedenken und -Vermittlung auf transnationaler Ebene gewährleistet. EHRI-AT ist das nationale Konsortium, das die Republik Österreich innerhalb dieses internationalen Forschungskonsortiums vertritt.
 {{< /intro >}}
 
 <br/><br/> 
