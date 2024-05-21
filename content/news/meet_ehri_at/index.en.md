@@ -1,6 +1,6 @@
 ---
 title: 15th Austrian Contemporary History Day with „Meet & Greet EHRI-AT“ 
-date: 2024-03-05
+date: 2024-04-17
 image: meet_ehri_at.jpg
 linkTitle: 15th Austrian Contemporary History Day with „Meet & Greet EHRI-AT“ 
 ---
