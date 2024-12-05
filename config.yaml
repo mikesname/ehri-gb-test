@@ -10,6 +10,7 @@ params:
   titleShort: EHRI-AT
   facebookUrl: 'https://facebook.com/EHRIproject'
   twitterUrl: 'https://twitter.com/EHRIproject'
+  linkedinUrl: 'https://www.linkedin.com/company/ehri-european-holocaust-research-infrastructure'
 
   # `contactName` and `contactEmail` are used to populate the contact page.
   contactName: EHRI-AT
@@ -32,10 +33,14 @@ params:
       logo: 'bmbwf_logo.svg'
       url: 'https://www.bmbwf.gv.at/'
 
-# Configure syntax highlighting for the examples on the `training` page
 markup:
+  # Configure syntax highlighting for the examples on the `training` page
   highlight:
     style: xcode
+  # Since we control the content, it's okay (and useful) to render raw HTML in the markdown
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Configure taxonomy terms
 taxonomies:
