@@ -107,10 +107,10 @@ languages:
     menu:
       main:
         - identifier: news
-          pageRef: news/
+          pageRef: news
           weight: 10
         - identifier: about
-          pageRef: about/
+          pageRef: about
           weight: 20
         - identifier: partners
           pageRef: partners
@@ -126,7 +126,7 @@ languages:
           weight: 60
       footer:
         - identifier: about
-          pageRef: about/
+          pageRef: about
           weight: 20
         - identifier: partners
           pageRef: partners
